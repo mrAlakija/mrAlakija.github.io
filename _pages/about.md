@@ -9,18 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I just finished my PhD in the Department of Biological Engineering at MIT.
-I worked in [Eric Alm's lab](http://almlab.mit.edu), studying the relationship between the human microbiome and health and disease.
-More generally, I'm interested in applying **personalized medicine approaches for public health**.
-I'm passionate about making local impact to move our society toward a more just ideal.
-That means learning about and working for increased **diversity and equity in STEM** and **technical approaches for social good**.
+I am an Electrical Engineer with a Masters in Information Technology. With over 8 years’ of practical experience, I have been able to acquire extensive knowledge in Data Management, Data Analytics, Electrical Building designs and  Data Warehousing.
 
-When I'm not in lab doing [research](research/), I spend my time working to improve the BE Department student experience as one of the [BE Graduate Student Board](http://begradboard.mit.edu/) Diversity co-Chairs and as a member of the [BE REFS](http://berefs.com).
-As Diversity co-Chair, I'm especially proud of having co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap) and co-written the BE Department's [Community Values Statement](http://be.mit.edu/about/department-values-statement).
-Through REFS, I've learned **conflict management** skills that have positively impacted almost every aspect of my life.
+When I am not on site carrying out inspections or back at the office managing databases, I spend my time learning Data Science and how it can be applied for social good. I am passionate about making a local impact in my community, no matter how small, so after getting a firm understanding of the field I decided to start applying all I've learnt so far. Recently, I was involved with the **Government Enterprise and Empowerment Program** [tradermoni](https://www.tradermoni.ng/index.html) scheme as a Data Scientist where I used exploratory data analysis and machine learning algorithms to help the Government understand how better to target their donor base.
 
-When I'm not doing those things, I'm probably outside chasing after a **frisbee**.
-Through my involvement in the sport first in [Cambodia](http://www.phnompenhpost.com/post-weekend/unconventional-sport-finds-unlikely-home-cambodia) and now on [MIT's women's team](http://scripts.mit.edu/~womens-ult/), I've become passionate about sport's ability to drive [social change](https://www.facebook.com/youthultimateproject) and push [gender equity](https://thenib.com/the-sports-wage-gap-needs-to-close) forward.
+When I’m not doing any of these things, I'm restaurant hopping with the aim of discovering the best delicacies the city has to offer or I'm probably in a gym trying to kill off calories.
 
-Before moving to Boston, I lived for a year in **Cambodia** working for [Engineering World Health](http://www.ewh.org/) as a [Luce Scholar](http://www.hluce.org/lsprogram.aspx).
-Before that, I studied biomedical engineering at Columbia University.
+I live in Canada and Nigeria but before that, I lived for 3 years in Scotland where I got my Masters and also did some volunteering work.  
