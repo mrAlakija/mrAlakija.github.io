@@ -10,23 +10,24 @@ redirect_from:
 
 # Education
 
-**Massachusetts Institute of Technology**, PhD in Biological Engineering (Jan 2019)    
-_Mining the human microbiome for clinical insight_; [thesis](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf), [defense](https://github.com/cduvallet/phd-thesis/blob/master/presentation/2019-01-11.defense.pdf)
+**Glasgow Caledonian University**, MSc in Information Technology Management (Jan 2012)    
+[Certification](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf)
 
-**Columbia University**, B.S. in Biomedical Engineering (2013)   
-
-James Bowie High School, Austin, TX (2009)
+**Igbinedion University Okada**, B.ENG. in Electrical Engineering (2007)   
+[Certification](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf)
 
 ***
 
-# Research experience
+# Experience
 
-**Alm lab**, Massachusetts Institute of Technology (2014-present)   
-*Under the direction of Eric Alm*
+**Julius Berger Nigeria**, Data Manager (2015-present)  
+* Participate in technical assessments related to audit projects and assess risks, develop scope, objectives and work plans.
+*	Assist the technical Manager with site inspections, supervise sub-contractors and ensure progress completion according to approved
 
-I did my PhD in [Eric Alm's lab](http://almlab.mit.edu/) at MIT.
-You can learn more about my research interests on our [lab website](http://almlab.mit.edu/claire_duvallet.html) and on my [publications](/publications/) and [research](/research/) pages.
-You can find my [thesis](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf) and [defense slides](https://github.com/cduvallet/phd-thesis/blob/master/presentation/2019-01-11.defense.pdf) on my [github](https://github.com/cduvallet/phd-thesis).
+
+
+
+
 
 **Molecular and Microscale Bioengineering Laboratory**, Columbia University (2011-2013)
 *Under the direction of Samuel K. Sia*
