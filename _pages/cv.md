@@ -18,23 +18,32 @@ redirect_from:
 
 ***
 
+# Skills
+
+* Data Analysis
+* Applied Machine Learning
+* Electrical Building Design
+* Data Warehousing
+* Text Mining
+
+***
+
 # Experience
 
-**Julius Berger Nigeria**, Data Manager (2015-present)  
-* Participate in technical assessments related to audit projects and assess risks, develop scope, objectives and work plans.
-*	Assist the technical Manager with site inspections, supervise sub-contractors and ensure progress completion according to approved
+**Julius Berger Nigeria**, Mechanical & Electrical Engineer (2013-present)  
+
+I was employed as a Mechanical and Electrical (M&E) Engineer in 2013. Juilius Berger is a construction company offering integrated
+solutions and related services. For my first [project](http://www.nestoiltower.com/tower/) my job description included:
+* Develop and manage a Microsoft access database for all the engineering documents.
+* Assist the technical Manager with site inspections
+* Supervise sub-contractors and ensure progress completion according to approved building drawings
+* Review material testing reports before the execution of construction work to ensure compliance with guideline and standards.
 
 
-
-
-
-
-**Molecular and Microscale Bioengineering Laboratory**, Columbia University (2011-2013)
+**Molecular and Microscale Bioengineering Laboratory**, Columbia University (2008-2010)
 *Under the direction of Samuel K. Sia*
 
-I was an undergraduate research assistant in [Sam   Sia](http://bme.columbia.edu/samuel-k-sia)'s lab for two years at Columbia.
-There, I worked on developing a point-of-care microfluidic device to diagnose multi-drug resistant tuberculosis.
-I primarily focused on the DNA amplification and detection modules, optimizing primers and reaction conditions off-chip.
+
 
 **Laboratoire de Biochimie**, Ecole Polytechnique (Summer 2012)   
 *Under the direction of Cedric Norais*
@@ -44,29 +53,12 @@ There, I worked with Cedric Norais to study the acquired-immunity CRISPR system 
 
 ***
 
-# Publications
+# Certifications
 
 See [publications](/publications/) page.
 
 ***
 
-# Presentations
-
-## Oral presentations
-
-Nov. 2018 - "Framework for rational donor selection in fecal microbiota transplant clinical trials." [International Conference on Microbiome Engineering](https://www.aiche.org/sbe/conferences/microbiome-engineering/2018).
-
-May 2018 - "Distribution-based methods to increase power and reduce redundancy in microbiome data." Teaching and Developing QIIME 2 Workshop. ([abstract](https://docs.google.com/document/d/1AJS6E6zKC3vB87L6lE3jkbEnqKKbmAUklx2LNP5xn0k/edit?disco=AAAAB30XTS8&ts=5ae86df5#heading=h.nu9k79xrnqy2))
-
-Mar. 2018 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/).
-
-Feb. 2018 - "Aspiration changes relationships in the aerodigestive microbiome." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
-
-Oct. 2017 - "Meta-analysis to identify consistent disease-associated microbiome shifts." [MIT Department of Biological Engineering Retreat](http://be-retreat.mit.edu/).
-
-Oct. 2016 - "The human gut microbiome in health and disease." [Bioengineering and Toxicology Seminar](https://be.mit.edu/news-events/bats)   
-
-## Poster presentations
 
 Mar. 2018 - "Meta-analysis to identify consistent disease-specific and shared responses." [MIT-Harvard Microbiome Symposium](https://microbiome2018.wordpress.com/). [pdf](/files/2018-03-21.symposium_poster.pdf)
 
@@ -105,79 +97,12 @@ I also mentored and advised students on general biomedical engineering and colle
 
 ***
 
-# Leadership and service
 
-## Academic and Professional
-
-[**MIT Microbiome Club**](http://microbiome.mit.edu/get-involved/#club), *co-Founder*, *President* (2015-2016), *Executive board member* (2016-2018)
-
-**MIT-Harvard Microbiome Symposium**, *co-founder and Organizing committee* ([2016](https://microbiome2016.wordpress.com/) and [2017](https://microbiome2017.wordpress.com/))
-
-[**MIT Biotech Group**](http://biotech.mit.edu/), *Beyond the Bench Initiative board member* (2017-2018)
-
-## Departmental and MIT
-
-**Graduate Student Council Diversity and Inclusion Subcommittee**, *Vice Chair and Department and Classroom Inclusion co-coordinator* (2017-2019)    
-
-In this role, I coordinated and oversaw semesterly conduit assemblies, which bring together diversity representatives from all MIT departments.
-
-[**BE Graduate Student Board**](http://begradboard.mit.edu/), *Diversity Chair* (2015-2018)    
-
-As Diversity Chair, I co-started the [BE Application Assistance Program](http://be.mit.edu/academic-programs/prospective-graduate/beaap), co-wrote the [BE Departmental Values Statement](http://be.mit.edu/about/department-values-statement), and spearheaded the 2016 BE Diversity Climate Survey, which has informed diversity-related efforts since.
-
-[**BE Resources for Easing Friction and Stress**](http://berefs.com/), *BE Ref* (2016-2019)    
-
-**Biological Engineering Department Visiting Committee**, *Graduate student representative* (2018)
-
-**Graduate Student Advisory Group for Engineering (GradSAGE)**, Advisory group to the Dean of the School of Engineering, *Advisor/advisee relations subcommittee* (2017-2019)
-
-## Outreach and mentorship
 
 [**MIT SuperUROP Program**](https://superurop.mit.edu/), Microbiome superUROP mentor (2016-2017). Supervised one undergraduate researcher.
 
 [**Science Club for Girls**](http://www.scienceclubforgirls.org/) [Young leaders in STEM program](http://www.scienceclubforgirls.org/teen-programs-overview) (Summer 2016 and 2017). Developed and taught three-day course on microbiology and the human microbiome.
 
-[**Mr. John Bartucz**](http://www.bartucz.com/mrbartucz/2017-speakers/)'s computer science class (2017). Introduction to my career path and research.
-
-[**MIT SPLASH**](https://esp.mit.edu/learn/Splash/index.html) (2015). "Microbiome 101: What's in your poop?"
-
-[**E3: Empowering, Encouraging, and Eliminating Barriers for Women in STEM**](http://e3mentoringprogram.wixsite.com/home) (2015). Mentor and guest presenter.
-
-## Reviewer
-
-[**MIT IDEAS Global Challenge**](https://studentlife.mit.edu/ideas), *Reviewer* (2015-2018)    
-
-[**MIT Summer Research Program (MSRP)**](https://odge.mit.edu/undergraduate/msrp/), *Reviewer* (2018)    
-
-[**MIT Committed to Caring**](https://odge.mit.edu/community/committed-to-caring-c2c/), *Reviewer* (2017)   
-
-## Extracurriculars
-
-[**ESL Program for MIT Service Employees**](http://hrweb.mit.edu/esl), *GED Math tutor* (2015-2018)
-
-[**MIT Women's Ultimate Frisbee Team**](http://scripts.mit.edu/~womens-ult/), *B-team captain* (2015-2016), *member* (2014-2018)
-
-[**MIT Interfaith Dialogue Program**](http://addir.mit.edu/), *Addir fellow* (2017-2018)
-
-***
-
-# Fellowships and Awards
-
-## Fellowships
-
-**Siebel Foundation Scholarship**, *Class of 2019 Scholar*
-
-**National Defense Science and Engineering Graduate (NDSEG) Fellowship**, *Awardee* (2015-2018)
-
-**Henry Luce Foundation**, *Luce Scholar* (2013-2014)
-
-**National Science Foundation Graduate Research Fellowship**, *Honorable Mention* (2015)
-
-## Awards
-
-[PSB](http://psb.stanford.edu/) [Award for Rigorous Secondary Data Analysis](http://researchparasite.com/), Junior Research Parasite (2019)
-
-[MIT Graduate Women of Excellence](https://odge.mit.edu/community/women/celebratewomen/) (2017), [pdf](/files/2017-04-24.GWOE_Duvallet_Claire.pdf)
 
 Salutatorian, Columbia University Fu Foundation School of Engineering and Applied Science	(2013)
 
