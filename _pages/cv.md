@@ -63,13 +63,13 @@ I was employed as a Database Administrator for Wined Resources where my job desc
 
 List of some of my certifications.
 1. **Microsoft** 
-  * _Microsoft Technology Associate: Database Fundamentals_  
+    * _Microsoft Technology Associate: Database Fundamentals_  
 2. **Coursera** 
-  [* _Introduction to Data Science in Python_ ](https://www.coursera.org/account/accomplishments/verify/V7BLBV2T9Q9H)
-  [* _Applied Machine Learning in Python_](https://www.coursera.org/account/accomplishments/verify/YRWJTQ7NWD9A)
+    * _Introduction to Data Science in Python_ 
+    * _Applied Machine Learning in Python_
 3. **DataCamp** 
-  * [_Python Programmer_](https://www.datacamp.com/statement-of-accomplishment/track/18fe12bd5dc445c5a6ee8ed1af592bf39636fe87)
-  * [_Data Analyst with Python_](https://www.datacamp.com/statement-of-accomplishment/track/2a64bda7e4a33fd900406ce7522d35d8a6a4142c)
+    * _Python Programmer_
+    * _Data Analyst with Python_
 
 ***
 
