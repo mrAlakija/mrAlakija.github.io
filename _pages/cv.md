@@ -65,7 +65,7 @@ List of some of my certifications.
 1. **Microsoft** 
     * _Microsoft Technology Associate: Database Fundamentals_  
 2. **Coursera** 
-    * _Introduction to Data Science in Python_ [certificate](https://github.com/mrAlakija/mrAlakija.github.io/blob/master/files/Coursera%20Introduction%20to%20Data%20Science%20in%20Python.pdf)
+    * _Introduction to Data Science in Python_ [pdf](/files/Coursera%20Introduction%20to%20Data%20Science%20in%20Python.pdf)
     * _Applied Machine Learning in Python_
 3. **DataCamp** 
     * _Python Programmer_
