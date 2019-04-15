@@ -12,6 +12,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 ### 1. [Classify Song Genres from Audio Data](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
 
 Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), a classifier was trained to distinguish between the two genres based only on track information derived from [Echonest](http://the.echonest.com/). 
+
 <img src="/images/2019-04-15-classify-audio-songs/PCA.png" width="30%">
 
 ### 2. [Analyse Baseball Data](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)  
