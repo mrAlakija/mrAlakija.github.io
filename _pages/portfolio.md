@@ -13,6 +13,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 Working with a fake advertising data, I will use scikit-learn to predict if a particular internet user clicked on an ad based of certain
 certain features of each user. 
+
 <img src="/images/2019-04-15-predict-user-engagement/time-spent-on-site.png" width="30%"> 
 
 
