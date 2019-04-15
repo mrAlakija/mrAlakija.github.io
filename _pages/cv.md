@@ -27,9 +27,9 @@ redirect_from:
 * Text Mining
 
 
-  ------------- | ------------- | -------------
-  Content Cell  | Content Cell  | Content Cell
-  Content Cell  | Content Cell  | Content Cell
+  ------------- | ------------- 
+  Content Cell  | Content Cell  
+  Content Cell  | Content Cell  
 
 ***
 
