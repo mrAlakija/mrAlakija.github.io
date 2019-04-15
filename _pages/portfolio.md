@@ -7,6 +7,16 @@ author_profile: true
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 
 ---
+## Personal Projects
+
+### 1. [Predicting User Engagement via Ads](https://github.com/mrAlakija/Personal-Projects/tree/master/Predicting%20User%20Engagement)
+
+Working with a fake advertising data, I will use scikit-learn to predict if a particular internet user clicked on an ad based of certain
+certain features of each user. 
+<img src="/images/2019-04-15-predict-user-engagement/time-spent-on-site.png" width="30%"> 
+
+
+---
 ## DataCamp Projects
 
 ### 1. [Classify Song Genres from Audio Data](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
