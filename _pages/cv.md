@@ -11,57 +11,30 @@ redirect_from:
 # Education
 
 **Glasgow Caledonian University**, MSc in Information Technology Innovations (Jan 2012)    
-[Certification](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf)
 
 **Igbinedion University Okada**, B.ENG. in Electrical Engineering (2007)   
-[Certification](https://github.com/cduvallet/phd-thesis/blob/master/duvallet_thesis_final.pdf)
+
 
 ***
 
-# Skills
+# Skills  
 
 * Data Analysis
 * Applied Machine Learning
-* Electrical Building Design
-* Data Warehousing
+* Communications 
 * Text Mining
-
-
-  First Header  | Second Header
-  ------------- | -------------
-  Content Cell  | Content Cell
-  Content Cell  | Content Cell 
+* Web Scraping
+* Data Management 
 
 ***
 
 # Experience
 
-**Julius Berger Nigeria**, _lagos, NG_, Mechanical & Electrical Engineer (2013-present)  
+**Julius Berger Nigeria**, _lagos, NG_, MEP Engineer (2013-present)  
 
-I was employed as a Mechanical and Electrical (M&E) Engineer in 2013. Juilius Berger is a construction company offering integrated
-solutions and related services. my job descriptions have included:
-* Develop and manage a Microsoft access database for all the engineering documents.
-* Assist the technical Manager with site inspections
-* Supervise sub-contractors and ensure progress completion according to approved building drawings
-* Review material testing reports before the execution of construction work to ensure compliance with guideline and standards.
-
-
-**Doig and Smith**, _glasgow UK_, (Summer 2011)  
-
-For my MSc dissertation, I interned with [Doig and Smith]() as an IT Consultant where I: 
-* Evaluated the company’s website and developed solutions and recommendations tailored to enhance the website’s functionality.
-* Transformed the business into a mobile-first data capability, instead of PC first.
-* Clarified the client's system specifications, understanding their work practices and the nature of their business.
-
+**Doig and Smith**, _glasgow UK_, Intern (Summer 2011)  
 
 **Wined Resources**, _lagos NG_, Database Admin (2008 - 2011)
-
-I was employed as a Database Administrator for Wined Resources where my job descriptions included:
-* Utilized relational databases  to track and analyze data
-* Used reporting tools for analysis and manipulation of large sets of data for data driven decision-making.
-* Enhanced end users' understanding of database systems by conducting workshops.
-* Delivered group/individual training sessions and created user-friendly training materials.
-
 
 ***
 
@@ -69,17 +42,17 @@ I was employed as a Database Administrator for Wined Resources where my job desc
 
 List of some of my certifications.
 1. **Microsoft** 
-    * _Microsoft Technology Associate: Database Fundamentals_  
+    * _Microsoft Technology Associate: Database Fundamentals_ [pdf](https://github.com/mrAlakija/mrAlakija.github.io/blob/master/files/MTA%20Certificate.pdf)
 2. **Coursera** 
-    * _Introduction to Data Science in Python_ ![pdf](/files/Coursera%20Introduction%20to%20Data%20Science%20in%20Python.pdf)
-    * _Applied Machine Learning in Python_
+    * _Introduction to Data Science in Python_ [pdf](https://www.coursera.org/account/accomplishments/verify/V7BLBV2T9Q9H)
+    * _Applied Machine Learning in Python_ [pdf](https://www.coursera.org/account/accomplishments/verify/YRWJTQ7NWD9A)
 3. **DataCamp** 
-    * _Python Programmer_
-    * _Data Analyst with Python_
+    * _Python Programmer_ [pdf](https://www.datacamp.com/statement-of-accomplishment/track/18fe12bd5dc445c5a6ee8ed1af592bf39636fe87)
+    * _Data Analyst with Python_ [pdf](https://www.datacamp.com/statement-of-accomplishment/track/2a64bda7e4a33fd900406ce7522d35d8a6a4142c)
 
 ***
 
-
+For a more detailed CV, Please click [here]()
 
 
 
