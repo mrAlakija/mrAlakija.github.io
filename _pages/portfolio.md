@@ -18,7 +18,12 @@ certain features of each user.
 
 ### 2. [Restaurant Recommendation using Azure Matchbox Recommender](https://gallery.azure.ai/Experiment/Restaurant-Recommender-3)
 
-Using sample data from Microsoft's machine learning studio, a matchbox recommender algorithm(cognitive based filtering) was used to suggest restaurants for customers based off prior customer and restaurant data
+Using sample data from Microsoft's machine learning studio, a matchbox recommender algorithm(cognitive based filtering) was used to suggest restaurants for customers based off prior customer and restaurant data. The model scored a Normalized Discounted Cumulative Gain
+of 91%.
+
+<img src="/images/2019-04-23-restaurant_recommender/restaurant_recommender.png" width="30%">
+
+
 
 
 ---
