@@ -16,6 +16,10 @@ certain features of each user.
 
 <img src="/images/2019-04-15-predict-user-engagement/time-spent-on-site.png" width="30%"> 
 
+### 2. [Restaurant Recommendation using Azure Matchbox Recommender](https://gallery.azure.ai/Experiment/Restaurant-Recommender-3)
+
+Using sample data from Microsoft's machine learning studio, a matchbox recommender algorithm(cognitive based filtering) was used to suggest restaurants for customers based off prior customer and restaurant data
+
 
 ---
 ## DataCamp Projects
