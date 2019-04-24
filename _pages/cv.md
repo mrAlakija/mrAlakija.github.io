@@ -20,10 +20,11 @@ redirect_from:
 # Skills  
 
 * Data Analysis
-* Applied Machine Learning
+* Machine Learning
 * Communications 
-* Text Mining
-* Web Scraping
+* Natural Language Processing
+* Data Visualization
+* Business Reproting
 * Data Management 
 
 ***
