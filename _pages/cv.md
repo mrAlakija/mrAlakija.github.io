@@ -20,18 +20,18 @@ redirect_from:
 # Skills  
 
 * Data Analysis
-* Machine Learning
-* Communications 
-* Natural Language Processing
-* Data Visualization
-* Business Reproting
-* Data Management 
+* Machine Learning and AI
+* Communication Skills 
+* Data Mining
+* Data Warehousing
+* Business Intelligence Reproting
+* Collaborative skills
 
 ***
 
 # Experience
 
-**Julius Berger Nigeria**, _lagos, NG_, MEP Engineer (2013-present)  
+**Julius Berger Nigeria**, _lagos, NG_, MEP, Data Engineer (2013-present)  
 
 **Doig and Smith**, _glasgow UK_, Intern (Summer 2011)  
 
