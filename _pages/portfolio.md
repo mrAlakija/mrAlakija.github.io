@@ -11,7 +11,6 @@ This portfolio is a compilation of several projects which I have carried out. cr
 ## BI Projects
 
 ### Adventure Works BI Report
-
 [report](https://app.powerbi.com/view?r=eyJrIjoiM2EyNjIyMTctOTk5NC00MmM2LWFkNDEtN2Q4OWJjNjRhNjEyIiwidCI6IjBmODNlMjdiLTQ4YjMtNGZkNC05M2QzLTE4YzllNDNiNjA5NiIsImMiOjl9)
 
 Working with data from the popular Adventure Works database from Microsoft, I was able to transform the raw data, build a relational data model, add calculated fileds using DAX and finally deliver a professional-quality, end-to-end business intelligence report. 
