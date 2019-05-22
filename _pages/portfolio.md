@@ -40,7 +40,7 @@ of 91%.
 
 ### Classify Song Genres from Audio Data
 
-[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb) [github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
+[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb?flush_cache=true) [github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
 
 Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), a classifier was trained to distinguish between the two genres based only on track information derived from [Echonest](http://the.echonest.com/). 
 
@@ -48,7 +48,7 @@ Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), a cla
 
 ### Predicting Credit Card Approvals
 
-[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Predicting%20Credit%20Card%20Approvals/notebook.ipynb) [github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Predicting%20Credit%20Card%20Approvals/notebook.ipynb?flush_cache=true) [github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
 
 Using data from the Credit Card Approval [dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval) to build a machine learning model with scikit-learn so as to predict if a credit card approval will get approved or not
 
