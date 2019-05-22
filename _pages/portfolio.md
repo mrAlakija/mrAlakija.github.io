@@ -23,7 +23,7 @@ Working with data from the popular Adventure Works database from Microsoft, I wa
 
 ### Predicting User Engagement via Ads
 
-[Github](https://github.com/mrAlakija/Personal-Projects/tree/master/Predicting User Engagement/Predicting user engagement via ads.ipynb)
+[Github](https://github.com/mrAlakija/Personal-Projects/blob/master/Predicting%20User%20Engagement/Predicting%20user%20engagement%20via%20ads.ipynb)
 
 Working with a fake advertising data, I will use scikit-learn to predict if a particular internet user clicked on an ad based of certain
 certain features of each user. 
