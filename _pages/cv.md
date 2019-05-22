@@ -8,16 +8,16 @@ redirect_from:
 
 ***
 
-# Education
+## Education
 
-**Glasgow Caledonian University**, MSc in Information Technology Innovations (Jan 2012)    
+**Glasgow Caledonian University**, MSc in Information Technology (Jan 2012)    
 
 **Igbinedion University Okada**, B.ENG. in Electrical Engineering (2007)   
 
 
 ***
 
-# Skills  
+## Skills  
 
 * Data Analysis
 * Machine Learning and AI
@@ -29,9 +29,9 @@ redirect_from:
 
 ***
 
-# Experience
+## Experience
 
-**Julius Berger Nigeria**, _lagos, NG_, MEP, Data Engineer (2013-present)  
+**Julius Berger Nigeria**, _lagos, NG_, MEP and Data Engineer (2013-present)  
 
 **Doig and Smith**, _glasgow UK_, Intern (Summer 2011)  
 
@@ -39,7 +39,7 @@ redirect_from:
 
 ***
 
-# Certifications
+## Certifications
 
 List of some of my certifications.
 1. **Microsoft** 
