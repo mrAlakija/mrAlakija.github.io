@@ -10,7 +10,8 @@ This portfolio is a compilation of several projects which I have carried out. cr
 ---
 ## BI Projects
 
-### 1. [Adventure Works BI Report](https://app.powerbi.com/view?r=eyJrIjoiM2EyNjIyMTctOTk5NC00MmM2LWFkNDEtN2Q4OWJjNjRhNjEyIiwidCI6IjBmODNlMjdiLTQ4YjMtNGZkNC05M2QzLTE4YzllNDNiNjA5NiIsImMiOjl9)
+### Adventure Works BI Report
+[Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2EyNjIyMTctOTk5NC00MmM2LWFkNDEtN2Q4OWJjNjRhNjEyIiwidCI6IjBmODNlMjdiLTQ4YjMtNGZkNC05M2QzLTE4YzllNDNiNjA5NiIsImMiOjl9)
 
 Working with data from the popular Adventure Works database from Microsoft, I was able to transform the raw data, build a relational data model, add calculated fileds using DAX and finally deliver a professional-quality, end-to-end business intelligence report. 
 
@@ -19,31 +20,36 @@ Working with data from the popular Adventure Works database from Microsoft, I wa
 ---
 ## Machine Learning and AI Projects
 
-### 1. [Predicting User Engagement via Ads](https://github.com/mrAlakija/Personal-Projects/tree/master/Predicting%20User%20Engagement)
+### Predicting User Engagement via Ads
+[Github](https://github.com/mrAlakija/Personal-Projects/tree/master/Predicting%20User%20Engagement)
 
 Working with a fake advertising data, I will use scikit-learn to predict if a particular internet user clicked on an ad based of certain
 certain features of each user. 
 
 <img src="/images/2019-04-15-predict-user-engagement/time-spent-on-site.png" width="30%"> 
 
-### 2. [Restaurant Recommendation using Azure Matchbox Recommender](https://gallery.azure.ai/Experiment/Restaurant-Recommender-3)
+### Restaurant Recommendation using Azure Matchbox Recommender
+[Azure Gallery](https://gallery.azure.ai/Experiment/Restaurant-Recommender-3)
 
 Cloud based project using sample data from Microsoft's machine learning studio, a matchbox recommender algorithm(cognitive based filtering) was used to suggest restaurants for customers based off prior customer and restaurant data. The model scored a Normalized Discounted Cumulative Gain
 of 91%.
 
 <img src="/images/2019-04-23-restaurant_recommender/restaurant_recommender.png" width="30%">
 
-### 3. [Classify Song Genres from Audio Data](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
+### Classify Song Genres from Audio Data
+[Github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
 
 Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), a classifier was trained to distinguish between the two genres based only on track information derived from [Echonest](http://the.echonest.com/). 
 
 <img src="/images/2019-04-15-classify-audio-songs/PCA.png" width="30%">
 
-### 4. [Predicting Credit Card Approvals](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Predicting%20Credit%20Card%20Approvals)
+### Predicting Credit Card Approvals
+[Github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Predicting%20Credit%20Card%20Approvals)
 
 Using data from the Credit Card Approval [dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval) to build a machine learning model with scikit-learn so as to predict if a credit card approval will get approved or not
 
-### 5. [Predicting Bee Species from images](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Na%C3%AFve%20Bees_%20Predict%20Species%20from%20Images)
+### Predicting Bee Species from images
+[Github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Na%C3%AFve%20Bees_%20Predict%20Species%20from%20Images)
 
 Using Scikit-learn to build a model that can automatically detect bee types (bumble  and honey bee) from images.  
 <img src="/images/2019-04-15-predict-bees/roc.png" width="30%">
@@ -52,20 +58,24 @@ Using Scikit-learn to build a model that can automatically detect bee types (bum
 
 ## Data Analysis Projects
 
-### 1. [Analyse Baseball Data](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)  
+### Analyse Baseball Data
+[Github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)  
 
 Using MLBs statcast data to perform an Exploratory Data Analysis on Aaron Judge and Giancarlo Stanton.  
 <img src="/images/2019-04-15-mlb-eda/project-image.png" width="30%">  
 
-### 2. [Keeping Up With The Kardashians(and Jenners)](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Up%20and%20Down%20With%20the%20Kardashians)  
+### Keeping Up With The Kardashians(and Jenners)
+[Github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Up%20and%20Down%20With%20the%20Kardashians)  
 
 Performing EDA using google trends data to find out who the most popular Kardashian is.... or Jenner.    
 <img src="/images/2019-04-15-kardashian-eda/kardashians-vs-jenners.png" width="30%">
 
+---
 
 ## Design Projects
 
-### 1. [A/B Test on Mobile Game](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Mobile%20Games%20A%20B%20Testing%20With%20Cookie%20Cats/B%20Testing%20with%20Cookie%20Cats)
+### A/B Test on Mobile Game
+[Github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/tree/master/Mobile%20Games%20A%20B%20Testing%20With%20Cookie%20Cats/B%20Testing%20with%20Cookie%20Cats)
 
 Analyzing an A/B test from a popular mobile puzzle game called 'Cookie Cats'.  
 <img src="/images/2019-04-15-ab-test/a-b-testing.png" width="30%">
