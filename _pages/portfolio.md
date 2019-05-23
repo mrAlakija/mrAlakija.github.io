@@ -51,6 +51,7 @@ Working with a fake advertising data, I will use scikit-learn to predict if a pa
 certain features of each user. 
 
 <img src="/images/2019-04-15-predict-user-engagement/time-spent-on-site.png" width="30%"> 
+
 ---
 
 ## Data Analysis Projects
