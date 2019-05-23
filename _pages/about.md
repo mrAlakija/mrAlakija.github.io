@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 #layout: archive
@@ -12,6 +13,7 @@ Engineering and IT professional, with over 8 years of industry experience, who c
 
 __What I have to offer:__
 I have held responsible positions in a number of companies specialising in Engineering and IT services as a mechanical, electrical and plumbing(MEP) engineer, data manager, database administrator and IT consultant. My practical experience includes electrical building construction, data science, database administration, BI reporting, software development, testing  and people management.
+
 
 __What I'm looking for.  Is this you?__
 * company with a positive ethical stance.
