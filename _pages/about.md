@@ -22,7 +22,7 @@ __What I'm looking for.  Is this you?__
 * comapny invested in contributing locally for social good.
 * direct engineering and IT hands-on involvement.
 
-Interested? Please have a look at my [resume]()
+Getting intrigued? Please have a look at my [resume](https://drive.google.com/open?id=1YQYAbFQZcXodnFmvnhdaGn3to8XLnNJP) and get in touch!
 
 
 Nigerian-Canadian. I live in Nigeria and Canada but before that, I lived for 3 years in Scotland where I got my Masters and also did some volunteering work.
