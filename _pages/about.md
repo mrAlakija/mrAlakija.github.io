@@ -12,15 +12,15 @@ Engineering and IT professional, with over 8 years of industry experience, who c
 
 
 __What I have to offer:__
-I have held responsible positions in a number of companies specialising in Engineering and IT services as a mechanical, electrical and plumbing(MEP) engineer, data manager, database administrator and IT consultant. My practical experience includes electrical building construction, data science, database administration, BI reporting, software development, testing  and people management.
+I have held responsible positions in a number of companies specialising in Engineering and IT services as a Mechanical, Electrical and Plumbing(MEP) Engineer, Data Manager, Database Administrator and IT Consultant. My practical experience includes Electrical Building Construction, Data Science, Database Administration, BI Reporting, Testing  and People management.
 
 
 __What I'm looking for.  Is this you?__
-* company with a positive ethical stance.
-* time and opportunity to learn and apply emerging technologies.
-* work hard but not 24/7.
-* comapny invested in contributing locally for social good.
-* direct engineering and IT hands-on involvement.
+* Company with a positive ethical stance.
+* Time and opportunity to learn and apply emerging technologies.
+* Work hard but not 24/7.
+* Company invested in contributing locally for social good.
+* Direct engineering and IT hands-on involvement.
 
 Interested? Please be sure to have a look at my [Portfolio](https://mralakija.github.io/portfolio/) and [resume](https://drive.google.com/open?id=1yJW1mXA0DgOrB_72l6q0nTiOcf5QbBdf) but most importanly, do get in touch!
 
