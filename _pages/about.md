@@ -5,7 +5,7 @@ title: "About"
 excerpt: "About me"
 author_profile: true
 
-
+---
 
 Engineering and IT professional, with over 8 years of industry experience, who continues to seek to add value to organizations, societies and individuals using data and technology. 
 
