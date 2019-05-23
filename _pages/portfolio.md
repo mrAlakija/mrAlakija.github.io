@@ -20,14 +20,13 @@ Working with data from the popular Adventure Works database from Microsoft, I wa
 ---
 ## Machine Learning and AI Projects
 
-### Predicting User Engagement via Ads
+### Classify Song Genres from Audio Data
 
-[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Personal-Projects/blob/master/Predicting%20User%20Engagement/Predicting%20user%20engagement%20via%20ads.ipynb) [github](https://github.com/mrAlakija/Personal-Projects/blob/master/Predicting%20User%20Engagement/Predicting%20user%20engagement%20via%20ads.ipynb)
+[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb?flush_cache=true) [github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
 
-Working with a fake advertising data, I will use scikit-learn to predict if a particular internet user clicked on an ad based of certain
-certain features of each user. 
+Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), a classifier was trained to distinguish between the two genres based only on track information derived from [Echonest](http://the.echonest.com/). 
 
-<img src="/images/2019-04-15-predict-user-engagement/time-spent-on-site.png" width="30%"> 
+<img src="/images/2019-04-15-classify-audio-songs/PCA.png" width="30%">
 
 ### Restaurant Recommendation using Azure Matchbox Recommender
 
@@ -38,21 +37,20 @@ of 91%.
 
 <img src="/images/2019-04-23-restaurant_recommender/restaurant_recommender.png" width="30%">
 
-### Classify Song Genres from Audio Data
-
-[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb?flush_cache=true) [github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
-
-Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), a classifier was trained to distinguish between the two genres based only on track information derived from [Echonest](http://the.echonest.com/). 
-
-<img src="/images/2019-04-15-classify-audio-songs/PCA.png" width="30%">
-
 ### Predicting Credit Card Approvals
 
 [notebook](https://nbviewer.jupyter.org/github/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Predicting%20Credit%20Card%20Approvals/notebook.ipynb?flush_cache=true) [github](https://github.com/mrAlakija/Datacamp-Portfolio-Projects/blob/master/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
 
 Using data from the Credit Card Approval [dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval) to build a machine learning model with scikit-learn so as to predict if a credit card approval will get approved or not
 
+### Predicting User Engagement via Ads
 
+[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Personal-Projects/blob/master/Predicting%20User%20Engagement/Predicting%20user%20engagement%20via%20ads.ipynb) [github](https://github.com/mrAlakija/Personal-Projects/blob/master/Predicting%20User%20Engagement/Predicting%20user%20engagement%20via%20ads.ipynb)
+
+Working with a fake advertising data, I will use scikit-learn to predict if a particular internet user clicked on an ad based of certain
+certain features of each user. 
+
+<img src="/images/2019-04-15-predict-user-engagement/time-spent-on-site.png" width="30%"> 
 ---
 
 ## Data Analysis Projects
