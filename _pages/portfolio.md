@@ -4,7 +4,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-This portfolio is a compilation of several projects which I have carried out. created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
+This portfolio is a compilation of several (Personal and hosted) Data Science and Business Inteligence projects which I have carried out. Technologies are separated by category.
 
 
 ---
@@ -15,7 +15,7 @@ This portfolio is a compilation of several projects which I have carried out. cr
 
 [report](https://app.powerbi.com/view?r=eyJrIjoiM2EyNjIyMTctOTk5NC00MmM2LWFkNDEtN2Q4OWJjNjRhNjEyIiwidCI6IjBmODNlMjdiLTQ4YjMtNGZkNC05M2QzLTE4YzllNDNiNjA5NiIsImMiOjl9)
 
-Working with data from the popular Adventure Works database from Microsoft, I was able to transform the raw data, build a relational data model, add calculated fileds using DAX and finally deliver a professional-quality, end-to-end business intelligence report.
+Working with data from the popular Adventure Works database from Microsoft, I was able to transform the raw data, build a relational data model, add calculated fileds using DAX and finally deliver a professional-quality, end-to-end business intelligence report using Microsoft's Power BI.
 
 ---
 ## Machine Learning and AI Projects
@@ -78,7 +78,7 @@ Performing Exploratory Data Analysis using google trends data to find out who th
 Analysing the Super-bowl over the years to find out if viewership, TV ratings, and ad cost evolved over time. Who the most prolific musicians in terms of halftime show performances and how the game affects television viewership
 
 ---
-## Natural Language Processing and Data Mining
+## Natural Language Processing and Data Mining Projects
 
 ###  Word Frequency in Moby Dick
 
