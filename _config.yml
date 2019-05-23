@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olugbenga Alakija"
+title                    : "Olugbenga Michael Alakija"
 title_separator          : "-"
-name                     : &name "Olugbenga Alakija"
+name                     : &name "Olugbenga Michael Alakija"
 description              : &description "Olugbenga Alakija"
 url                      : https://mralakija.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
