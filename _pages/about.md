@@ -31,7 +31,7 @@ When I am not carrying out site inspections, developing business intelligence re
 
 Recently, I was involved with the **Government Enterprise and Empowerment Program** [Tradermoni](https://www.tradermoni.ng/index.html) scheme as a Data Scientist where I was tasked with cleaning and validating data and applying predictive modelling techniques in order to help the Government understand how better to target their donor base.
 
-Please be sure to have a look at my [Portfolio](https://mralakija.github.io/portfolio/) and [resume](https://drive.google.com/open?id=1yJW1mXA0DgOrB_72l6q0nTiOcf5QbBdf) but most importanly, do get in touch!
+Please be sure to have a look at my [Portfolio](https://mralakija.github.io/portfolio/) and [resume](https://drive.google.com/open?id=1QlT44FZ8NBiYW9QrfaSURJgHPowDQsS2) but most importanly, do get in touch!
 
 Nigerian-Canadian. I live in Nigeria and Canada but before that, I lived for 3 years in Scotland where I got my Masters and also did some volunteering work.
 
