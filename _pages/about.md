@@ -11,8 +11,8 @@ Engineering and IT professional, with over 8 years of industry experience, who c
 
 __What I have to offer:__
 I have held responsible positions in a number of companies specialising in Engineering and IT services as a Mechanical, Electrical and Plumbing(MEP) Engineer, Data Manager, Database Administrator and IT Consultant. My practical experience includes:
-* Electrical Building Construction.
-* Data Analysis using Python (using NumPy and Pandas) and SQL(T-SQL).
+* ### Electrical Building Construction.
+* ### Data Analysis using Python (using NumPy and Pandas) and SQL(T-SQL).
 * Software Development and Unit Testing using Python.
 * Applied Machine Learning using Python(Scikit-learn) and AzureML.
 * Deep Learning using Artificial Neural Networks(ANN).
