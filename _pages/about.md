@@ -11,13 +11,13 @@ Engineering and IT professional, with over 8 years of industry experience, who c
 
 __What I have to offer:__
 I have held responsible positions in a number of companies specialising in Engineering and IT services as a Mechanical, Electrical and Plumbing(MEP) Engineer, Data Manager, Database Administrator and IT Consultant. My practical experience includes:
-* Electrical Building Construction
-* Data Analysis using Python (using NumPy and Pandas) and SQL(T-SQL, PostgreSQL)
-* Software Development and Unit Testing using Python
-* Applied Machine Learning using Python(Scikit-learn) and AzureML
-* Deep Learning using Artificial Neural Networks(ANN)
-* Natural Language Processing using Python's NLTK 
-* BI Reporting and Dashboard Visualization using Microsoft PowerBI and Python's seaborn library
+* Electrical Building Construction.
+* Data Analysis using Python (using NumPy and Pandas) and SQL(T-SQL).
+* Software Development and Unit Testing using Python.
+* Applied Machine Learning using Python(Scikit-learn) and AzureML.
+* Deep Learning using Artificial Neural Networks(ANN).
+* Natural Language Processing using Python's NLTK.
+* BI Reporting and Dashboard Visualization using Microsoft PowerBI and Python's seaborn library.
 * Database Administration using SQL Server Management Studio and Microsoft Access.
  
 __What I'm looking for.  Is this you?__
@@ -29,7 +29,7 @@ __What I'm looking for.  Is this you?__
 
 When I am not carrying out site inspections, developing business intelligence reports or managing databases, I spend some of my free time learning about Emerging Technologies such as Machine learning, deep learning and Artificial Intelligence and their application for social good. With an ability to learn quickly, I was able to get a solid understanding and implement some of these technologies.
 
-Recently, I was involved with the **Government Enterprise and Empowerment Program** [Tradermoni](https://www.tradermoni.ng/index.html) scheme as a Data Scientist where I was tasked with cleaning and validating data and applying deep learning techniques in order to help the Government understand how better to target their donor base.
+Recently, I was involved with the **Government Enterprise and Empowerment Program** [Tradermoni](https://www.tradermoni.ng/index.html) scheme as a Data Scientist where I was tasked with cleaning and validating data and applying predictive modelling techniques in order to help the Government understand how better to target their donor base.
 
 Please be sure to have a look at my [Portfolio](https://mralakija.github.io/portfolio/) and [resume](https://drive.google.com/open?id=1yJW1mXA0DgOrB_72l6q0nTiOcf5QbBdf) but most importanly, do get in touch!
 
