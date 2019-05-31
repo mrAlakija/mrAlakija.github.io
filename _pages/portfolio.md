@@ -18,6 +18,15 @@ This portfolio is a compilation of several (Personal and hosted) Data Science an
 Working with data from the popular Adventure Works database from Microsoft, I was able to transform the raw data, build a relational data model, add calculated fileds using DAX and finally deliver a professional-quality, end-to-end business intelligence report using Microsoft's Power BI.
 
 ---
+## Time-Series Projects
+
+### Avocado Prices: Analysis and Predictions
+
+[notebook](https://nbviewer.jupyter.org/github/mrAlakija/Personal-Projects/blob/master/Avocado%20US%20Prices/Avocado.ipynb) [github](https://github.com/mrAlakija/Personal-Projects/blob/master/Avocado%20US%20Prices/Avocado.ipynb)
+
+Analysing and predicting the trends in the average price of Avocados accross multiple US Markets uisng data from [Kaggle](https://www.kaggle.com/neuromusic/avocado-prices/downloads/avocado-prices.zip/1)
+
+---
 ## Machine Learning and AI Projects
 
 ### Classify Song Genres from Audio Data
