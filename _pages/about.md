@@ -15,6 +15,7 @@ I have held responsible positions in a number of companies specialising in Engin
 * Data Analysis using Python (using NumPy and Pandas) and SQL(T-SQL).
 * Software Development and Unit Testing using Python.
 * Applied Machine Learning using Python(Scikit-learn) and AzureML.
+* Time-series Forcasting using Python
 * Deep Learning using Artificial Neural Networks(ANN).
 * Natural Language Processing using Python's NLTK.
 * BI Reporting and Dashboard Visualization using Microsoft PowerBI and Python's seaborn library.
