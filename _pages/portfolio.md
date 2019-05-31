@@ -8,7 +8,7 @@ This portfolio is a compilation of several (Personal and hosted) Data Science an
 
 
 ---
-## BI Projects
+## Business Iintelligence (BI) Projects
 
 ### Adventure Works BI Report
 
