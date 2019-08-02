@@ -14,7 +14,7 @@ I have held responsible positions in a number of companies specialising in Engin
 * Engineering Project management.
 * Data Analysis using Python (using NumPy and Pandas).
 * Use advanced SQL queries to extract large amounts of data and build transforms that will provide insights for Businesses.
-* Build, train and deploy cloud-based machine learning models using AWS SageMaker and AzureML.
+* Build, train and deploy cloud-based machine learning models using AWS SageMaker, IBM Watson and AzureML.
 * Carry out Time-series Forecasting using Python
 * Build automated reports with visualization tools such as Microsoft's Power BI.
 * Database Administration using SQL Server Management Studio and Microsoft Access.
