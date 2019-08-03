@@ -13,9 +13,11 @@ __What I have to offer:__
 I have held responsible positions in a number of companies specialising in Engineering and IT services as a Mechanical, Electrical and Plumbing(MEP) Engineer, Data Manager, Data Analyst and IT Consultant. My practical experience includes:
 * Engineering Project management.
 * Data Analysis using Python (using NumPy and Pandas).
-* Use advanced SQL queries to extract large amounts of data and build transforms that will provide insights for Businesses.
+* Excellent written and verbal communication skills especially with regard to communicating highly technical information to lay audiences
+* Use of advanced SQL queries to extract large amounts of data and build transforms that will provide insights for Businesses.
 * Build, train and deploy cloud-based machine learning models using AWS SageMaker, IBM Watson and AzureML.
-* Carry out Time-series Forecasting using Python
+* Execute Time-series Forecasting using Python.
+* Experienced in Extract, Transform and Load processes (ETL), SQL databases, data warehousing solutions and data modeling.
 * Build automated reports with visualization tools such as Microsoft's Power BI.
 * Database Administration using SQL Server Management Studio and Microsoft Access.
  
