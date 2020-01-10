@@ -37,6 +37,6 @@ I have recently relocated to canada, before that I lived in Scotland for 3 years
 
 Please be sure to have a look at my BI, Data Science [Portfolio](https://mralakija.github.io/portfolio/) projects. 
 
-Most importanly, please do get in touch!
+Most importanly, please do get in touch!!
 
 
