@@ -7,21 +7,20 @@ author_profile: true
 
 ---
 
-Engineering and IT professional, with over 9 years of industry experience, who continues to seek to add value to organizations, societies and individuals using data and technology. 
+Engineering and IT professional, with over 8 years of industry experience, who continues to seek to add value to organizations, societies and individuals using data and technology. 
 
 __What I have to offer:__
 I have held responsible positions in a number of companies specialising in Engineering and IT services as a Chief Engineer, Project Data Engineer, Data Analyst and IT Management Consultant. My practical experience includes:
-* Engineering Project management.
-* Data Analysis using Python (using NumPy and Pandas).
-* Excellent written and verbal communication skills especially with regard to communicating highly technical information to lay audiences
+* Administring Business Intelligence (Build user-driven reports and dashboards) using Microsoft Power BI.
+* Exploratory Data Analysis using Python.
+* Excellent written and verbal communication skills especially with regard to communicating highly technical information.
 * Use of advanced SQL queries to extract large amounts of data and build transforms that will provide insights for Businesses.
 * Build, train and deploy cloud-based machine learning models using IBM Watson and AzureML.
-* Scripting and automating using Python.
+* Scripting and automating using Python and UiPath.
 * Extract, Transform and Load processes (ETL), SQL databases, data warehousing solutions and data modeling.
-* Build user-driven reports and dashboards using Microsoft's Power BI.
 * Database Administration using SQL Server Management Studio and Microsoft Access.
  
-__What I'm looking for.  Is this you?__
+__What I'm looking for__
 * Company with a positive ethical stance.
 * Time and opportunity to learn and apply emerging technologies.
 * Work hard but not 24/7.
