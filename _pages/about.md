@@ -10,8 +10,8 @@ author_profile: true
 Engineering and IT professional, with over 8 years of industry experience, who continues to seek to add value to organizations, societies and individuals using data and technology. 
 
 __What I have to offer:__
-I have held responsible positions in a number of companies specialising in Engineering and IT services as a Chief Engineer, Project Data Engineer, Data Analyst and IT Management Consultant. My practical experience includes:
-* Administring Business Intelligence (Build user-driven reports and dashboards) using Microsoft Power BI.
+I have held responsible positions in a number of companies specialising in Engineering and IT services as a Sr. Business Intelligence Engineer, Data Analyst and IT Consultant. My practical experience includes:
+* Administering Business Intelligence (Build user-driven reports and dashboards) projects using Microsoft Power BI.
 * Exploratory Data Analysis using Python.
 * Excellent written and verbal communication skills especially with regard to communicating highly technical information.
 * Use of advanced SQL queries to extract large amounts of data and build transforms that will provide insights for Businesses.
